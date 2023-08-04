@@ -11,5 +11,5 @@ main {
     background-color: rgb(157, 157, 157);
     width: 500px;
     margin: auto;
-    box-shadow: 6px 6px 6px 6px solid rgba(0, 0, 0, 1.7);
+    box-shadow: 6px 6px black;
 }
